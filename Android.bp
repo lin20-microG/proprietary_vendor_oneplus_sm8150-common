@@ -304,3 +304,4 @@ prebuilt_etc_xml {
 	sub_dir: "vintf/manifest",
 	device_specific: true,
 }
+
